@@ -22,6 +22,25 @@
   </figcaption>
 </figure>
 
+<hr> 
+<div align = "justfy">
+<h2>FRONT-END 🖥️</h2>
+<figure>
+  <figcaption>
+    <img width="1250" height="773" alt="image" src="https://github.com/user-attachments/assets/6eace0bc-0968-4263-a317-ca671bc69b67" />
+    <i>Imagem 1: Método GET via POSTMAN</i>
+  </figcaption>
+</figure>
+
+<div align = "justfy">
+<h2>BACK-END 🧾</h2>
+<figure>
+  <figcaption>
+    <img width="1250" height="773" alt="image" src="https://github.com/user-attachments/assets/6eace0bc-0968-4263-a317-ca671bc69b67" />
+    <i>Imagem 1: Método GET via POSTMAN</i>
+  </figcaption>
+</figure>
+
 
 
 
