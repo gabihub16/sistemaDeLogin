@@ -43,6 +43,29 @@
 <hr>
 <div align = "justfy">
 <h2>🌐 SISTEMA RODANDO 🌐</h2>
+<figure>
+  <figcaption>
+    <img width="1916" height="959" alt="image" src="https://github.com/user-attachments/assets/9b503f59-d5d9-4085-8974-3302218f2534" /> 
+  <figcaption>  
+</figure>
+
+<hr> 
+<div align ="justfy">
+<figure>
+  <figcaption>
+    <img width="1916" height="1005" alt="image" src="https://github.com/user-attachments/assets/6b46daa4-82f4-416a-b3fd-cca19538698e" />
+  </figcaption>
+</figure>
+
+<hr> 
+<div align ="justfy">
+<figure>
+  <figcaption>
+    <img width="1895" height="992" alt="image" src="https://github.com/user-attachments/assets/208f9538-a9e6-40a7-9644-2c517dfb93bf" />
+  </figcaption>
+</figure>
+
+
 
 
 
