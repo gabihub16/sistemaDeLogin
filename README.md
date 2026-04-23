@@ -22,7 +22,6 @@
   </figcaption>
 </figure>
 
-<hr>
 <figure>
   <figcaption>
     <img width="1250" height="773" alt="image" src="https://github.com/user-attachments/assets/6eace0bc-0968-4263-a317-ca671bc69b67" />
@@ -40,8 +39,10 @@
     <i>linguagem: PYTHON🐍</i>
   </figcaption>
 </figure>
-
-
+  
+<hr>
+<div align = "justfy">
+<h2>🌐 SISTEMA RODANDO 🌐</h2>
 
 
 
